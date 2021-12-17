@@ -1,4 +1,4 @@
-#include "lab_m1/Tema1/SurvivalShooter.h"
+#include "SurvivalShooter/SurvivalShooter.h"
 
 #include <vector>
 #include <iostream>
